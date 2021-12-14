@@ -3,11 +3,11 @@
   <title>cxs</title>
   
   <subtitle>cxsの博客</subtitle>
-  <link href="https://github.com/ct-hub/ct-hub.github.io/atom.xml" rel="self"/>
+  <link href="https://ct-hub.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/ct-hub/ct-hub.github.io/"/>
+  <link href="https://ct-hub.github.io/"/>
   <updated>2021-12-13T14:30:09.104Z</updated>
-  <id>https://github.com/ct-hub/ct-hub.github.io/</id>
+  <id>https://ct-hub.github.io/</id>
   
   <author>
     <name>cxs</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>博客与博主</title>
-    <link href="https://github.com/ct-hub/ct-hub.github.io/posts/1.html"/>
-    <id>https://github.com/ct-hub/ct-hub.github.io/posts/1.html</id>
+    <link href="https://ct-hub.github.io/posts/1.html"/>
+    <id>https://ct-hub.github.io/posts/1.html</id>
     <published>2021-12-13T14:29:00.000Z</published>
     <updated>2021-12-13T14:30:09.104Z</updated>
     
@@ -34,10 +34,10 @@
     
     
     
-    <category term="生活" scheme="https://github.com/ct-hub/ct-hub.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://ct-hub.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="想法" scheme="https://github.com/ct-hub/ct-hub.github.io/tags/%E6%83%B3%E6%B3%95/"/>
+    <category term="想法" scheme="https://ct-hub.github.io/tags/%E6%83%B3%E6%B3%95/"/>
     
   </entry>
   
